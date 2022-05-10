@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239244732601",
+    "project_id": "mcha-9eed2",
+    "storage_bucket": "mcha-9eed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239244732601:android:9408531c53a906e4909368",
+        "android_client_info": {
+          "package_name": "com.younis.mega_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239244732601-q84mjd8agmb9v23dgijn2q4ahju9sb7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUb3zIdl3OM-yU3EjGW3WEAIx5Z-yU9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239244732601-q84mjd8agmb9v23dgijn2q4ahju9sb7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
